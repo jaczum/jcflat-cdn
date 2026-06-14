@@ -1,0 +1,50 @@
+
+Copyright (c) 2026 James Akandu
+
+All Rights Reserved.
+
+IMPORTANT: This software is proprietary and licensed, not sold.
+
+1. OWNERSHIP
+The JcFlat Framework and all associated files, including but not limited to:
+flat.js, icons.js, stack.js, config.js, translation.js, menu.js,
+and all future modules, remain the exclusive property of the author.
+
+2. PERMITTED USE
+You are granted a limited, non-exclusive, non-transferable license to use
+this software ONLY if:
+- You have purchased or been granted a valid license key
+- You use it within your own applications
+- You do not expose, redistribute, or resell the source code
+
+3. PROHIBITED USE
+You MAY NOT:
+- Copy, modify, or distribute the source code
+- Reverse engineer or decompile the software
+- Rebrand or resell the framework or its components
+- Share CDN links outside your organization or license scope
+- Extract or reuse premium modules without authorization
+
+4. PREMIUM MODULES
+Premium modules such as:
+- translation.js
+- icons.pro.js
+- devtools.js
+
+are strictly licensed and require active authorization from the license server.
+
+5. LICENSE VALIDATION
+The software may communicate with an external license server to verify
+valid usage. License checks may be required for premium functionality.
+
+6. TERMINATION
+Any violation of this license automatically terminates your right to use
+the software, and you must delete all copies immediately.
+
+7. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES OR LOSS ARISING FROM ITS USE.
+
+8. ENFORCEMENT
+Unauthorized distribution, resale, or reproduction of this software
+may result in legal action.
